@@ -65,7 +65,7 @@ def opt():
         while True:
 
             # Waits for period of time and then captures the mouse position
-            wait = input('Enter seconds to wait before captue: ')
+            wait = input('Enter seconds to wait before capture: ')
             time.sleep(int(wait))
             location = mousePos()
             

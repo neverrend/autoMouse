@@ -35,7 +35,7 @@ $ python3 mouse_automation.py
 #############################################
 
 Do you want to capture your mouse location?(Y\n): y
-Enter seconds to wait before captue: 0
+Enter seconds to wait before capture: 0
 
 Your mouse location was: Point(x=-229, y=1117)
 
