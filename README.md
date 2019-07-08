@@ -8,7 +8,7 @@ Then run with:
 `$./autoMouse.py`
 
 Sample output:
-`
+```
 $ python3 mouse_automation.py
 #############################################
 ## This program lets you automate mouse    ##
@@ -28,4 +28,4 @@ Press CTRL-C to end.
 
 Click #1
 Click Automation paused. Press Enter to Continue, and CTRL-C to exit.
-`
+```
