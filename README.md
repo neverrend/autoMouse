@@ -1,15 +1,32 @@
 # autoMouse
 
-Tool for refreshing pages during tests because I am incredibly lazy.
+_Tool for refreshing pages during tests because I am incredibly lazy._
 
-To use you must first install pyautogui with the command
-`pip install pyautogui`
+## Installation
+
+```sh
+# Fetch sources from GitHub
+git clone https://github.com/neverrend/autoMouse.git
+
+# Navigate to source directory
+cd autoMouse
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Install autoMouse
+python setup.py install
+```
 
 Then run with:
-`$./autoMouse.py`
 
-Sample output:
+```sh
+autoMouse
 ```
+
+### Sample output
+
+```sh
 $ python3 mouse_automation.py
 #############################################
 ## This program lets you automate mouse    ##
