@@ -21,7 +21,7 @@ python setup.py install
 Then run with:
 
 ```sh
-autoMouse
+automouse
 ```
 
 ### Sample output
